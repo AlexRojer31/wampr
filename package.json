@@ -1,6 +1,6 @@
 {
-    "name": "wamr",
-    "description": "Windows Apache mySQL ReactJS",
+    "name": "wampr",
+    "description": "Stack with Windows, Apache, MySQL, PHP and ReactJS for create web apps",
     "version": "1.0.0",
     "author": "alexrojer31.ru",
     "scripts": {
